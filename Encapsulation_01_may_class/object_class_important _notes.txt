@@ -1,0 +1,30 @@
+Important Points about class and object:
+
+The word “Class” came from simula language.
+
+Class is blueprint for an entity.
+In class there are variables and methods.
+The access modifiers like public, private and protected used in different situation.
+Objects represent the state and behavior of class.
+Object is just a memory area or a buffer in heap area(memory) in which all the instance data members are getting a memory.
+In Java “new” operator is only used for allocating a memory for an object only.
+Memory associated with object is automatically collected by garbage collector.
+Class with main method having static keyword is mandatory to call upon the object of other classes.
+All the objects are sharing a same memory location for each static data members.
+
+1. A class is a user-defined data type whereas an object is an instance of class data type.
+2. A class generates objects whereas an object gives life to a class.
+3. Classes do not occupy memory location but objects occupy memory location.
+4. Classes cannot be manipulated due to not available in the memory location but objects can be manipulated.
+
+
+1. Objects, classes, data abstraction, encapsulation, inheritance, method overriding, polymorphism, and message passing are the fundamental terms and concepts to understand the concepts of object-oriented programming approach.
+
+2. Objects are the basic runtime entities in object-oriented systems.
+3. All objects in a system take a separate memory space independently of each other.
+4. A class in OOPs represents a group of similar objects.
+
+5. Once a class has been created, any number of objects belonging to that class can be created.
+6. An object of a class is also known as an instance.
+7. A class never represents an object, rather it represents data and actions that an object will have.
+8. Members of a class consist of variables (data members) and methods (member functions).
